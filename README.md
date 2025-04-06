@@ -6,8 +6,9 @@ This project leverages advanced graph machine learning techniques to enhance pre
 ## Project Overview
 
 - **Project Stucture:**  
-  The project is organized into several key components, each focusing on a specific aspect of the graph machine learning pipeline.
- Graph-Deep-Learning-for-Sparse-Datasets/
+The project is organized into several key components, each focusing on a specific aspect of the graph machine learning pipeline.
+Graph-Deep-Learning-for-Sparse-Datasets/
+```bash
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
@@ -25,7 +26,8 @@ This project leverages advanced graph machine learning techniques to enhance pre
 └── docs/
     ├── architecture.md     # Detailed architecture and design documents
     └── usage.md            # Instructions on setting up and running the project
- 
+
+```
 
 - **Objective:**  
   Design and implement a Graph Machine Learning model tailored for sparse M&A networks.
